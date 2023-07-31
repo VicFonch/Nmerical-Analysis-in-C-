@@ -1,21 +1,20 @@
 # Numerical Analysis in C++
 
-Package to work with numerical methods in c++
+## Title: Numerical Methods Package in C++
 
-Is a group of functions from the subject Numerical Methods of the master's degree in Computer Science (CIMAT)
+## Description:
+This repository contains a comprehensive package for working with numerical methods in C++. Originally developed as part of the master's degree program in Computer Science (CIMAT), the package offers a collection of essential functions and algorithms for various numerical computations.
 
-I'ts divided into a 7 groups of function 
+## Features:
 
-1- Matrix and vector operators
+1. Matrix and Vector Operators: Perform essential operations on matrices and vectors.
+2. Matrix Factorizations: Explore different matrix factorization techniques.
+3. Solutions of Linear Systems: Find solutions to systems of linear equations.
+4. Interpolation: Utilize interpolation methods for function approximation.
+5. Numerical Integration: Perform numerical integration for definite integrals.
+6. Numerical Differentiation: Calculate numerical derivatives of functions.
+7. Softmax Regression with PCA (Final Project): A dedicated section for functions related to the final project, implementing Softmax Regression with PCA.
 
-2- Matrix factorizations
+Whether you're a student studying numerical methods or a developer in need of reliable numerical computation tools, this code provides a robust and user-friendly solution.
 
-3- Solutions of systems of linear equations
-
-4- Interpolation
-
-5- Numerical Integration
-
-6- Numerical differentiation
-
-7- This section is dedicated to the functions corresponding to the final project, a softmax regression with PCA
+Feel free to use, contribute, and improve this package to suit your needs. Contributions and feedback are highly encouraged.
