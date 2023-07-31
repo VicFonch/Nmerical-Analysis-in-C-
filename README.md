@@ -1,6 +1,6 @@
-# Numerical Analysis in C++
+# Title: Numerical Analysis in C++
 
-## Title: Numerical Methods Package in C++
+## Author: Victor Manuel Fonte Chavez
 
 ## Description:
 This repository contains a comprehensive package for working with numerical methods in C++. Originally developed as part of the master's degree program in Computer Science (CIMAT), the package offers a collection of essential functions and algorithms for various numerical computations.
